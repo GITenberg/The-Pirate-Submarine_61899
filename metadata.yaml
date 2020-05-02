@@ -1,5 +1,8 @@
 _repo: The-Pirate-Submarine_61899
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61899-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: https://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61899#The-Pirate-Submarine
 gutenberg_issued: '2020-04-23'
 gutenberg_type: Text
 identifiers:
